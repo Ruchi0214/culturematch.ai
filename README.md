@@ -7,5 +7,6 @@ Select from multiple company culture profiles
 AI-generated insights: match %, archetype, strengths, gaps, interview Qs
 Downloadable structured report for recruiters or candidates
 Deployed free on Streamlit Cloud
-Tech Stack
+
+# Tech Stack
 Python · Streamlit · Google Generative AI (Gemini Pro) · NLP
