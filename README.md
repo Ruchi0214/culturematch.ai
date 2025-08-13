@@ -1,12 +1,14 @@
-# culturematch.ai
-A Streamlit-based prototype that analyzes resumes or LinkedIn profile text using Gemini Pro and NLP to simulate culture-fit %, work style archetype, top strengths, risks, and tailored interview questions. Includes predefined company culture profiles and a downloadable JSON report.
+🧭 CultureMatch.AI – AI-Powered Culture Fit & Work Style Simulator
+CultureMatch.AI is a Streamlit-based prototype that uses Gemini Pro and NLP to analyze resumes or LinkedIn profile text and simulate culture-fit percentage, work style archetype, top strengths, potential gaps, and tailored interview questions. Designed for recruiters and candidates, it comes with predefined company culture profiles and outputs a downloadable JSON report for quick sharing or screening.
+
 # Features
 
-Upload resume (PDF/TXT) or paste profile text
-Select from multiple company culture profiles
-AI-generated insights: match %, archetype, strengths, gaps, interview Qs
-Downloadable structured report for recruiters or candidates
-Deployed free on Streamlit Cloud
+📄 Upload resume (PDF/TXT) or paste LinkedIn profile text
+🏢 Choose from multiple company culture profiles
+🤖 AI-generated insights: match %, archetype, strengths, gaps, and interview Qs
+📥 Downloadable JSON report
+🚀 Deployable for free on Streamlit Cloud
+
 
 # Tech Stack
 Python · Streamlit · Google Generative AI (Gemini Pro) · NLP
