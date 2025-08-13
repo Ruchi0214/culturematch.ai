@@ -4,9 +4,13 @@ CultureMatch.AI is a Streamlit-based prototype that uses Gemini Pro and NLP to a
 # Features
 
 📄 Upload resume (PDF/TXT) or paste LinkedIn profile text
+
 🏢 Choose from multiple company culture profiles
+
 🤖 AI-generated insights: match %, archetype, strengths, gaps, and interview Qs
+
 📥 Downloadable JSON report
+
 🚀 Deployable for free on Streamlit Cloud
 
 
